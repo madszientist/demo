@@ -1,6 +1,6 @@
 var http = require('http');
 var port = process.env.PORT || 3000;
-/var port = 8080;   //uncomment to run local
+//var port = 8080;   //uncomment to run local
 console.log("This goes to the console window");
 http.createServer(function (req, res) 
 {
