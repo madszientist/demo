@@ -2,9 +2,9 @@
     "name": "helloapp",
     "version": "1.0.0",
     "description": "example node app for heroku ",
-    "main": "hello_app.js",
+    "main": "hello.js",
     "scripts": {
-    "start": "node hello_app.js"
+    "start": "node hello.js"
   },
     "repository": {
     "type": "git",
